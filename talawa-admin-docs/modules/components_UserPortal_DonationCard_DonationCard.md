@@ -18,7 +18,7 @@
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `InterfaceDonationCardProps` |
+| `props` | [`InterfaceDonationCardProps`](../interfaces/screens_UserPortal_Donate_Donate.InterfaceDonationCardProps.md) |
 
 #### Returns
 
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/UserPortal/DonationCard/DonationCard.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/DonationCard/DonationCard.tsx#L12)
+[src/components/UserPortal/DonationCard/DonationCard.tsx:6](https://github.com/Azad99-9/talawa-admin/blob/2895a12/src/components/UserPortal/DonationCard/DonationCard.tsx#L6)

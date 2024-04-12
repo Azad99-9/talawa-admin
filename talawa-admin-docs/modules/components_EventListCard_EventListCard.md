@@ -4,6 +4,10 @@
 
 ## Table of contents
 
+### Interfaces
+
+- [InterfaceEventListCardProps](../interfaces/components_EventListCard_EventListCard.InterfaceEventListCardProps.md)
+
 ### Functions
 
 - [default](components_EventListCard_EventListCard.md#default)
@@ -18,7 +22,7 @@
 
 | Name | Type |
 | :------ | :------ |
-| `props` | `InterfaceEventListCardProps` |
+| `props` | [`InterfaceEventListCardProps`](../interfaces/components_EventListCard_EventListCard.InterfaceEventListCardProps.md) |
 
 #### Returns
 
@@ -26,4 +30,4 @@
 
 #### Defined in
 
-[src/components/EventListCard/EventListCard.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/EventListCard/EventListCard.tsx#L32)
+[src/components/EventListCard/EventListCard.tsx:37](https://github.com/Azad99-9/talawa-admin/blob/2895a12/src/components/EventListCard/EventListCard.tsx#L37)

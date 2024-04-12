@@ -4,6 +4,10 @@
 
 ## Table of contents
 
+### Interfaces
+
+- [InterfaceDonationCardProps](../interfaces/screens_UserPortal_Donate_Donate.InterfaceDonationCardProps.md)
+
 ### Functions
 
 - [default](screens_UserPortal_Donate_Donate.md#default)
@@ -20,4 +24,4 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/screens/UserPortal/Donate/Donate.tsx#L27)
+[src/screens/UserPortal/Donate/Donate.tsx:34](https://github.com/Azad99-9/talawa-admin/blob/2895a12/src/screens/UserPortal/Donate/Donate.tsx#L34)
